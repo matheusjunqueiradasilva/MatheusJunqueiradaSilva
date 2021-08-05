@@ -1,6 +1,6 @@
 ## Helo! I'am Matheus Junqueira :grin:
 
-- I"m live in :Brazil: 
+- I"m live in 🇧🇷: 
 - 🌱 I have been learning more about Python, Django and Machine Learning :desktop_computer:
 
 
