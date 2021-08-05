@@ -22,7 +22,4 @@ Here are some ideas to get you started:
 
 
 
-
-
-![MatheusJunqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJunqueiradaSilva&show_icons=true&theme=radical)
-![MatheusJunqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJunqueiradaSilva&count_private=true)
+[![MatheusJunqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats)
