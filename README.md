@@ -1,8 +1,9 @@
 ## Helo! I'am Matheus Junqueira :grin:
 
-- I"m live in 🇧🇷: 
-- 🌱 I have been learning more about Python, Django and Machine Learning :desktop_computer:
-
+- 🌱 Moro no Rio de Janeiro 
+- 🌱 Eu atualmente estou aprendendo sobre Python e machine learning.
+- 🌱 Nos meus tempos vagos me dedico aos meus projetos.
+- 🌱 Gosto bastante de programar.
 
 
 
