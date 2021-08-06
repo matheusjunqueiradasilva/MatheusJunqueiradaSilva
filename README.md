@@ -1,4 +1,4 @@
-## Helo! I'am Matheus Junqueira :grin:
+## Olá! Me chamo Matheus Junqueira :grin:
 
 - 🌱 Moro no Rio de Janeiro 
 - 🌱 Eu atualmente estou aprendendo sobre Python e machine learning.
