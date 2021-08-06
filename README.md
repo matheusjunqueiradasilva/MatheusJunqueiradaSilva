@@ -3,7 +3,7 @@
 - 🌱 Moro no Rio de Janeiro 
 - 🌱 Eu atualmente estou aprendendo sobre Python e machine learning.
 - 🌱 Nos meus tempos vagos me dedico aos meus projetos.
-- 🌱 Gosto bastante de programar.
+- 🌱 E Gosto bastante de programar.
 
 
 
