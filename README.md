@@ -1,10 +1,10 @@
 ## Olá! Me chamo Matheus Junqueira :grin:
 
 - 🌱 Moro no Rio de Janeiro 
-- 🌱 Eu atualmente estou aprendendo sobre Python e machine learning.
+- 🌱 Eu atualmente estou aprendendo sobre Python, Java, e Machine Learning.
 - 🌱 Nos meus tempos vagos me dedico aos meus projetos.
-- 🌱 E Gosto bastante de programar.
-
+- 🌱 Gosto de Ler livros sobre técnologia, e faço cursos pra aprender o máximo possível.
+- 🌱 Curto bastante de Programar.
 
 
 
