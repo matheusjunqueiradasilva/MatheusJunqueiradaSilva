@@ -20,9 +20,8 @@
 
 ## As mais utilizadas:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats)
-
 ### Minha atividade no github:
-[![MatheusJunqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats) <img src="https://tenor.com/view/andy-dwyer-shocked-gif-9648106" width="600" height="600"/>
+[![MatheusJunqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats) 
 
 
 
