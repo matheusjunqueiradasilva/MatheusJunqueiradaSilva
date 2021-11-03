@@ -1,5 +1,5 @@
 ## Olá! Me chamo Matheus Junqueira :grin:
-
+- 🌱 Tenho 22 Anos
 - 🌱 Moro no Rio de Janeiro 
 - 🌱 Eu atualmente estou aprendendo sobre Python, Java, e Machine Learning.
 - 🌱 Nos meus tempos vagos me dedico aos meus projetos.
