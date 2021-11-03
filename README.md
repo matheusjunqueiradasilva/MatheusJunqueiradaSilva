@@ -22,7 +22,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats)
 
 ### Minha atividade no github:
-[![MatheusJunqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats)
+[![MatheusJunqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats) <img src="https://tenor.com/view/andy-dwyer-shocked-gif-9648106" width="600" height="600"/>
+
+
 
 ### Contatos:
 <a href="https://www.linkedin.com/in/matheus-junqueira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <a href = "mailto:matheusjunqueira.job@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
