@@ -22,6 +22,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats)
 ### Minha atividade no github:
 [![MatheusJunqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats) 
+![Snake animation](https://github.com/MatheusJunqueiradaSilva/github-readme-stats/blob/output/github-contribution-grid-snake.svg)
 
 
 
