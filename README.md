@@ -4,7 +4,7 @@
 - 🌱 Eu atualmente estou aprendendo sobre Python, Java, e Machine Learning.
 - 🌱 Nos meus tempos vagos me dedico aos meus projetos.
 - 🌱 Gosto de Ler livros sobre técnologia, e faço cursos pra aprender o máximo possível.
-- 🌱 Curto bastante de Programar, pois a progração é uma arte.
+- 🌱 Curto bastante de Programar.
 
 
 ![yayyay](https://c.tenor.com/FS2PD8WU9RgAAAAC/yes-yay.gif)
