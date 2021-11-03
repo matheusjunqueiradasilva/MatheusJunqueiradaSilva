@@ -11,8 +11,7 @@
 ### Ferramentas e Tecnologias:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-original.svg" width="60" height ="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="60" height ="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" width="60" height ="60"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg"   width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original-wordmark.svg" width="60" height="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg"    width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" width="60" height="60"/>
 
-<div class="tenor-gif-embed" data-postid="9648106" data-share-method="host" data-aspect-ratio="1.555" data-width="100%"><a href="https://tenor.com/view/andy-dwyer-shocked-gif-9648106">Andy Dwyer GIF</a>from <a href="https://tenor.com/search/andy-gifs">Andy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
+<div class="tenor-gif-embed" data-postid="9648106" data-share-method="host" data-aspect-ratio="1.555" data-width="20%"><a href="https://tenor.com/view/andy-dwyer-shocked-gif-9648106">Andy Dwyer GIF</a>from <a href="https://tenor.com/search/andy-gifs">Andy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### As que estou aprendendo:
 
