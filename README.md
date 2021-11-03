@@ -15,7 +15,9 @@
 
 ### As que estou aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height ="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height ="60"/><img <div class="tenor-gif-embed" data-postid="9648106" data-share-method="host" data-aspect-ratio="1.555" data-width="100%"><a href="https://tenor.com/view/andy-dwyer-shocked-gif-9648106">Andy Dwyer GIF</a>from <a href="https://tenor.com/search/andy-gifs">Andy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height ="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height ="60"/>
+
+<img <div class="tenor-gif-embed" data-postid="9648106" data-share-method="host" data-aspect-ratio="1.555" data-width="100%"><a href="https://tenor.com/view/andy-dwyer-shocked-gif-9648106">Andy Dwyer GIF</a>from <a href="https://tenor.com/search/andy-gifs">Andy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ## As mais utilizadas:
