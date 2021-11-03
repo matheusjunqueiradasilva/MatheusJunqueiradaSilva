@@ -10,11 +10,13 @@
 
 
 
-## MY Skills
-[![MatheusJunqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats)
+## MINHAS HABILIDADES
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats)
 
 ### Estou aprendendo
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
+
+### Minha contribuição
+[![MatheusJunqueira's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats)
