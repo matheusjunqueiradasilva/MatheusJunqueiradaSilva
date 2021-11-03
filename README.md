@@ -3,7 +3,7 @@
 - 🌱 Moro no Rio de Janeiro 
 - 🌱 Eu atualmente estou aprendendo sobre Python, Java, e Machine Learning.
 - 🌱 Nos meus tempos vagos me dedico aos meus projetos.
-- 🌱 Gosto de Ler livros sobre técnologia, e faço cursos pra aprender o máximo possível.
+- 🌱 Gosto de Ler livros sobre tecnologia, e faço cursos pra aprender o máximo possível.
 - 🌱 Curto bastante de Programar.
 
 
