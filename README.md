@@ -10,7 +10,7 @@
 
 
 
-## MINHAS HABILIDADES
+## As Que Eu Mais utilizo
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusJunqueiradaSilva)](https://github.com/MatheusJunqueiradaSilva/github-readme-stats)
 
 ### Minha contribuição
