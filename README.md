@@ -1,7 +1,7 @@
 ## Olá! Me chamo Matheus Junqueira :grin:
 - 🌱 Tenho 22 Anos
 - 🌱 Moro no Rio de Janeiro 
-- 🌱 Eu atualmente estou aprendendo sobre Python, Java, C# e seu ecossistema, e Machine Learning.
+- 🌱 Eu atualmente estou aprendendo sobre Python, Java, Machine Learning, e blockchain.
 - 🌱 Nos meus tempos vagos me dedico aos meus projetos.
 - 🌱 Gosto de Ler livros sobre tecnologia, e faço cursos pra aprender o máximo possível.
 - 🌱 Curto bastante de Programar.
@@ -15,7 +15,7 @@
 
 ### As que estou aprendendo:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height ="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height ="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"  width="60" height ="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="60" height ="60" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="60" height="60"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="60" height="60"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="60" height ="60" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="60" height ="60"/>
 
 
 ## As mais utilizadas:
