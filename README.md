@@ -25,7 +25,7 @@
  
   <img align="center" alt="Matheus-GIT" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Matheus-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="right" height="150" width="150" src="https://github.com/matheusjunqueiradasilva/matheusjunqueiradasilva/blob/main/5eKX.gif">
+  <img align="right" height="150" width="150" src="https://github.com/matheusjunqueiradasilva/matheusjunqueiradasilva/blob/main/2LbF.gif">
 </div>
 
 ##
