@@ -12,13 +12,15 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=matheusjunqueiradasilva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusjunqueiradasilva&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
+ 
+ -My Stack
+  
 <div style="display: inline_block"><br>  
-  ## My stack
   <img align="center" alt="matheus-Python" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="matheus-Kotlin" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="matheus-Android" height="30"  width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
+  <img align="center" alt="matheus-Android" height="50"  width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original-wordmark.svg" />
   <img align="center" alt="Matheus-Django" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
-  <img align="center" alt="Matheus-Intellij" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" /> 
+  <img align="center" alt="Matheus-Intellij" height="50" width="60"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original-wordmark.svg" /> 
   <img align="center" alt="Matheus-Flask"  height="50"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg" />
   <img align="center" alt="Matheus-Postgre" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Matheus-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
