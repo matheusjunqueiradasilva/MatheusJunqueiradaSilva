@@ -20,7 +20,7 @@
   <img align="center" alt="Matheus-Spring" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   
 
-  <img align="center" alt="Matheus-Flask"  height="45"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"  />
+  <img align="center" alt="Matheus-Flask"  height="45"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg"  />
   <img align="center" alt="Matheus-Postgre" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="center" alt="Matheus-MySQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img align="center" alt="Matheus-SqlAlchemy" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" /> 
