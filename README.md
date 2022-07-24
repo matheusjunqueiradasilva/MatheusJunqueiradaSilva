@@ -2,7 +2,7 @@
 
 - 💻I'm Python and BI Developer.
 - 🧰 Studying to become a Data Engineer and Software Engineer.
-- 🧰 I'm also studying Kotlin and their ecosystem.
+- 🧰 I'm also studying Kotlin/Java ecosystem.
 - 🔭 Based in Rio de Janeiro, Brazil.
 - ⏳ Born in 1999.
 
