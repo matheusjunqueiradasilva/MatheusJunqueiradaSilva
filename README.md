@@ -1,7 +1,7 @@
 ## Hi there, I'm Matheus, how you doin? 👋
 
 - 💻I'm Python and BI Developer.
-- 🧰 Studying to become a Data Engineer and Software Engineer.
+- 🧰 Studying to become a Data Science and Software Engineer.
 - 🧰 I'm also studying Ml/OPS.
 - 🔭 Based in Rio de Janeiro, Brazil.
 - ⏳ Born in 1999.
