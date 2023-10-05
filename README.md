@@ -2,7 +2,7 @@
 
 - 💻I'm Python and BI Developer.
 - 🧰 Studying to become a Data Engineer and Software Engineer.
-- 🧰 I'm also studying Kotlin/Java ecosystem.
+- 🧰 I'm also studying Ml/OPS.
 - 🔭 Based in Rio de Janeiro, Brazil.
 - ⏳ Born in 1999.
 
@@ -14,7 +14,6 @@
   
 <div style="display: inline_block"><br>  
   <img align="center" alt="matheus-Python" height="45"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-   <img align="center" alt="matheus-Java" height="45"  width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Matheus-Django" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" />
   
 
